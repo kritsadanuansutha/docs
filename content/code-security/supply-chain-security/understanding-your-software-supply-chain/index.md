@@ -3,7 +3,7 @@ title: Understanding your software supply chain
 versions:
   fpt: '*'
   ghes: '>=3.0'
-topics:
+topics: test tg
   - Dependency graph
   - Dependencies
   - Repositories
