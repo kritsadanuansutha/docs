@@ -1,4 +1,4 @@
----
+
 title: Permission levels for an organization
 intro: 'After you [create an organization](/articles/creating-a-new-organization-account), you should give Owner permissions to a small group of people who will manage the organization account.'
 redirect_from:
